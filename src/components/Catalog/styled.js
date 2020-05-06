@@ -8,7 +8,7 @@ export const ItemCatalog = styled.View`
   flex: 1;
   padding: 12px;
   border-radius: 8px;
-  background-color: #FFF;
+  background-color: #fff;
   margin-bottom: 10px;
 `;
 
@@ -37,17 +37,17 @@ export const TextValue = styled.Text`
   font-size: 18px;
   color: green;
   font-weight: bold;
-
 `;
 
 export const ScrollView = styled.ScrollView.attrs({
   showsVerticalScrollIndicator: false,
-})`
-`;
+})``;
 
-export const TouchableOpacity = styled.TouchableOpacity`
+export const ScrollViewH = styled.ScrollView.attrs({
+  horizontal: true,
+})``;
 
-`;
+export const TouchableOpacity = styled.TouchableOpacity``;
 
 export const SubItemCatalog = styled.View`
   flex: 1;
@@ -70,7 +70,6 @@ export const ViewDescription = styled.View`
   flex: 1;
   padding: 2px;
 `;
-
 
 export const ViewItem = styled.View`
   flex: 1;
@@ -119,4 +118,10 @@ export const TextCart = styled.Text`
   color: green;
   padding-bottom: 10px;
   font-weight: bold;
+`;
+
+export const ContainerItem = styled.View`
+  width: 340px;
+  color: black;
+  margin-right: 15px;
 `;
