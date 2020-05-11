@@ -1,5 +1,5 @@
 # whatsFood
-> Trata-se de um aplicativo utilizado no salão de uma lanchonete, onde o atendente realiza o pedido através de um smartphone e o envia diretamente para cozinha. Atualmente o projeto só possui as telas desenhadas, ainda não foi criado o backend.
+> Trata-se de um aplicativo que será utilizado no salão de uma lanchonete, onde o atendente realiza o pedido através de um smartphone e o envia diretamente para cozinha. Atualmente o projeto só possui as telas desenhadas, ainda não foi criado o backend.
 
 [![NPM Version][npm-image]][npm-url]
 ![](https://img.shields.io/github/last-commit/lucassouza97/whatsFood.svg?color=red)
