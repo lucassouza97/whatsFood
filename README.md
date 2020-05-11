@@ -11,7 +11,9 @@
 
 + [ReactNative](https://reactnative.dev/)
 + [Expo](https://expo.io/)
-+ [StyledComponents](https://styled-components.com/)
++ [Eslint](https://eslint.org/)
++ [Prettier](https://prettier.io/)
++ [EditorConfig](https://editorconfig.org/)
 
 ### Installation
 
